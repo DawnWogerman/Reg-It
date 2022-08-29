@@ -1,10 +1,12 @@
-# Title (Reg-It: A Tutorial on Regular Expressions (REGEX))
+# Title (Reg-It: A Regex Tutorial on Matching URL with Regular Expressions)
 
 Introductory paragraph (replace this with your text)
 
 ## Summary
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This regex will prove to be useful in matching a URL to find or locate special text patterns.
+`/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`
 
 ## Table of Contents
 
